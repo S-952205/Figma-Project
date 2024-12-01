@@ -12,7 +12,7 @@ const Feature1 = () => {
                 {/*first column */}
                 <div className='mt-[26px] w-[100%] ml-[20px] md:ml-[0px] md:w-[246px] h-[180px]'>
                     <Image
-                        alt='hero'
+                        alt='feat1'
                         src={'/assets/rect34.png'}
                         width={246}
                         height={180}
