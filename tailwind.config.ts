@@ -7,9 +7,16 @@ export default {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    
     extend: {
+      //Made themes for figma project
       colors: {
-        background: "var(--background)",
+        myPink:"#F98585",
+        myBlack: "#21243D",
+        heroelipse: "#dfd8d8",
+        recentBackground: "#F4E2E2",
+        footerBackground: "#FAF5F5",
+        background: "#f6f1f1",
         foreground: "var(--foreground)",
       },
     },
