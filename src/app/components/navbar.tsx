@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 const Navbar = () => {
    // Define dynamic navigation items
-    let navItems = [
+    const navItems = [
         {
             name: "Works",
             link: "#",
